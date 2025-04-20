@@ -137,5 +137,15 @@ https://www.linkedin.com/pulse/ccsp-dont-panic-derek-buc%E1%B8%A5%E1%B8%81%E1%B9
 https://medium.com/@rajesh.hyd/ccsp-exam-review-and-learning-path-certified-cloud-security-professional-from-isc2-8204bbb4853b
 
 
+-----------------
+## CCSP
+**NOTES REFERENCES:**
+| CCSP | Notes |
+|--|--|
+| CCSP CheatSheet | [Link](https://github.com/amar3181/awesome-CISSP/files/7920302/CCSP.cheatsheets.04-2021.pdf) |
+| CCSP Space Notes | [Link](https://github.com/amar3181/awesome-CISSP/files/7920303/CCSP_Spaces_Notes.pdf) |
+| CIRRUS CCSP | [Link](https://github.com/amar3181/awesome-CISSP/files/7920300/CIRRUS-8000-ft-of-CCSP-Course.pdf) |
+
+> *Credits to all the authors. All files shared here are freely available over internet and I have merely consolidated it.*
 
 
