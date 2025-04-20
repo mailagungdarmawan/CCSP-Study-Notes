@@ -146,6 +146,6 @@ https://medium.com/@rajesh.hyd/ccsp-exam-review-and-learning-path-certified-clou
 | CCSP Space Notes | [Link](https://github.com/amar3181/awesome-CISSP/files/7920303/CCSP_Spaces_Notes.pdf) |
 | CIRRUS CCSP | [Link](https://github.com/amar3181/awesome-CISSP/files/7920300/CIRRUS-8000-ft-of-CCSP-Course.pdf) |
 
-> *Credits to all the authors. All files shared here are freely available over internet and I have merely consolidated it.*
+
 
 
